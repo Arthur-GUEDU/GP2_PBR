@@ -1,4 +1,4 @@
-# PBR 
+# Physically Based Rendering 
 2 and a half weeks project implementing Physical Based Rendering with OpenGL 4.6
 
 Controls :
@@ -11,4 +11,7 @@ Controls :
 
 Base project architecture by Noe MASSE, rework by Lucas LEPINAY and Arthur GUEDU for a Graphics Technical Effects project (that includes Toon Shading and Deferred Rendering)
 
-Lucas LEPINAY - Arthur GUEDU - Emil IZAC
+## Authors
+- [Arthur GUÉDU](https://github.com/Arthur-GUEDU)
+- Emil IZAC
+- [Lucas LÉPINAY](https://github.com/LucasLEPINAY)
